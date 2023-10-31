@@ -1,0 +1,1 @@
+landing page projecti, html ja css harjoitukseksi. Opetellaan myös githubin toimintaa.
